@@ -36,6 +36,7 @@ flutter:
     - assets/images/victor.png
     - assets/images/rec1.svg
     - assets/images/rec2.svg
+    - assets/images/userI/UI.png
 
 
   fonts:
